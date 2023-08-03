@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(25, 31, 52);
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(133, 143, 150);
     border-radius: 10px;
     height: 400px;
 }
