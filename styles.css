@@ -1,5 +1,8 @@
 body {
     background-color: rgb(25, 31, 52);
+    display: flex;
+    flex-direction: column;
+    padding: 0px 20%;
 }
 
 .image{
