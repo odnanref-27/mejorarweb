@@ -1,7 +1,18 @@
 body {
     background-color: rgb(255, 255, 165);
 }
-
+h1{
+    font-size: 50px;
+    font-variant: small-caps;
+}
+h2{
+    font-size: 35px;
+    font-variant: small-caps;
+}
+p{
+    font-size: 25px;
+    font-style: italic;
+}
 .image{
     border: 5px solid green;
     border-radius: 10px;
